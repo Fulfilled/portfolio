@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue
+}
+.container-fluid{
+    background-color: rgb(38, 160, 241);
+    padding-left:150px;
+    padding-top:50px;
+    color: white;
+    height:250px;
+}
+
+.jumbotron{
+    width:50%;
+    border-radius: 8px;
+    margin:auto;
+    margin-top: -150px;
+    background-color: rgb(244, 235, 250);
+    color: rgb(38, 160, 241);
+    padding-bottom: 1px;
+}
+img {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: -20px;
+    border-radius: 8px;
+  }
+  .footer{
+    background-color: rgb(38, 160, 241);
+    color:white;
+    width:100%;
+    padding: 10px;
+    text-align: left;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+    
+  }
+  .details{
+      background-color: white;
+      text-align: left;
+      color:rgb(38, 160, 241);
+      border-radius: 8px;
+   
+  }
+  
